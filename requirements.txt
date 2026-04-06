@@ -4,7 +4,7 @@ numpy
 pillow
 pycollada
 pyrender
-six
+scipy
 trimesh
 sphinx
 sphinx_rtd_theme
